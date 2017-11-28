@@ -8,12 +8,12 @@
     "jshare-react-native": "^1.1.0",
 
 ## demo效果图
-# 图一
-  ![图1](https://github.com/giantss/DemoApp/blob/master/res/res/IMG_2843.PNG)
-# 图二
-  ![图2](https://github.com/giantss/DemoApp/blob/master/res/res/IMG_2844.PNG)
-# 图三
-  ![图3](https://github.com/giantss/DemoApp/blob/master/res/res/IMG_2846.PNG)
+## 图一
+  ![](https://github.com/giantss/DemoApp/blob/master/res/res/WechatIMG65.jpeg)
+## 图二
+  ![](https://github.com/giantss/DemoApp/blob/master/res/res/WechatIMG66.jpeg)
+## 图三
+  ![](https://github.com/giantss/DemoApp/blob/master/res/res/WechatIMG67.jpeg)
 ## 使用注意事项
 - 使用前提是你已经在极光申请了应用并获取到了AppKey。
 - 替换项目中极光到AppKey为自己申请到AppKey。
