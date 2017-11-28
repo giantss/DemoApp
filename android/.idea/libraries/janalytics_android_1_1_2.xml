@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="janalytics-android-1.1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../node_modules/janalytics-react-native/android/libs/janalytics-android-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

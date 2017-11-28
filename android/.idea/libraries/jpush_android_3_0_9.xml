@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jpush-android-3.0.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../node_modules/jpush-react-native/android/libs/jpush-android-3.0.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jcore-android-1.1.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../node_modules/jcore-react-native/android/libs/jcore-android-1.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
